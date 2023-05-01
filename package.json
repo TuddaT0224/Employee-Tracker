@@ -1,0 +1,30 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuddaT0224/Employee-Tracker.git"
+  },
+  "author": "Trezz Tillman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuddaT0224/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/TuddaT0224/Employee-Tracker#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.4",
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
