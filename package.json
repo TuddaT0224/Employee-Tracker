@@ -19,6 +19,8 @@
   "homepage": "https://github.com/TuddaT0224/Employee-Tracker#readme",
   "dependencies": {
     "chalk": "^5.2.0",
+    "console-table": "^0.1.2",
+    "dotenv": "^16.0.3",
     "figlet": "^1.6.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.2.4",

@@ -1,8 +1,14 @@
 const connection = require('./config/connection');
 const inquirer = require('inquirer');
 const validate = require('./javascript/validate');
-const chalk = require('chalk');
+import('chalk').then((chalk) => {
+    // Use the chalk module here
+  }).catch((err) => {
+    console.error(err);
+  });
+  
 const figlet = require('figlet');
+
 
 
 connection.connect((error) => {
