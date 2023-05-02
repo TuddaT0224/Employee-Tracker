@@ -59,4 +59,5 @@ No testing at the moment
 Trezz Tillman
 
 ## Questions
-* Contact me with any questions: Github:
+* Contact me with any questions: Github:https://github.com/TuddaT0224/Employee-Tracker
+email: trezzt0224@gmail.com
